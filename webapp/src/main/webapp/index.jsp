@@ -1,10 +1,13 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>JSP include Action</title>
-    </head>
-    <body>
-        <h2>JSP page: with include</h2>
-        <jsp:include page="header.jsp" flush="false" />
-    </body>
-</html>
+
+<h2> rajesh </h2>
+
+<h2> Deploying artifact into Tomcat Server using Jenkins Demo  </h2>
+
+<h2> This is done by using Jenkins Scripted Pipelines</h2>
+
+<h2> This is done by using Jenkinsfile from central Repo</h2>
+
+
+
+
+
