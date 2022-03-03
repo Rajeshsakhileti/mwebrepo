@@ -7,7 +7,6 @@
     <body>
         <%-- A JSP comment --%>
         <!-- An HTML comment -->
-        <!—The current date is <%= new Date() %>
         -->
     </body>
 </html>
