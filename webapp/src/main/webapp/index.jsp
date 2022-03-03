@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>User login form</title>
+        <title>JSP include Action</title>
     </head>
     <body>
-        <form action="login.jsp">
-            Please insert Username: <input type="text" name="u_name" /> <br />
-            Please insert Password: <input type="text" name="passwd" /> <br />
-            <input type="submit" value="Submit Details" />
-        </form>
+        <h2>JSP page: with include</h2>
+        <jsp:include page="header.jsp" flush="false" />
     </body>
 </html>
