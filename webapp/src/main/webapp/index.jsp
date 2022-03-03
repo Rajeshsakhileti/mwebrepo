@@ -1,8 +1,13 @@
-
-<h2> i am kishore  </h2>
-
-<h2> hi  </h2>
-
-<h2> my name is rajesh</h2>
-
-<h2> This is done by using Jenkinsfile from central Repo</h2>
+<%@ page import="java.util.Date"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Comments in JSP Page</title>
+    </head>
+    <body>
+        <%-- A JSP comment --%>
+        <!-- An HTML comment -->
+        <!—The current date is <%= new Date() %>
+        -->
+    </body>
+</html>
